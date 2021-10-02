@@ -1,0 +1,6 @@
+D:\Teaching\Kỹ thuật lập trình\Chuong 3\Bai7\bin\Debug\Bai7.exe.config
+D:\Teaching\Kỹ thuật lập trình\Chuong 3\Bai7\bin\Debug\Bai7.exe
+D:\Teaching\Kỹ thuật lập trình\Chuong 3\Bai7\bin\Debug\Bai7.pdb
+D:\Teaching\Kỹ thuật lập trình\Chuong 3\Bai7\obj\Debug\Bai7.csprojResolveAssemblyReference.cache
+D:\Teaching\Kỹ thuật lập trình\Chuong 3\Bai7\obj\Debug\Bai7.exe
+D:\Teaching\Kỹ thuật lập trình\Chuong 3\Bai7\obj\Debug\Bai7.pdb

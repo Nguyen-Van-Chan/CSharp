@@ -1,0 +1,5 @@
+D:\Teaching\Kỹ thuật lập trình\Chuong 4\Xoa_B4\bin\Debug\Xoa_B4.exe.config
+D:\Teaching\Kỹ thuật lập trình\Chuong 4\Xoa_B4\bin\Debug\Xoa_B4.exe
+D:\Teaching\Kỹ thuật lập trình\Chuong 4\Xoa_B4\bin\Debug\Xoa_B4.pdb
+D:\Teaching\Kỹ thuật lập trình\Chuong 4\Xoa_B4\obj\Debug\Xoa_B4.exe
+D:\Teaching\Kỹ thuật lập trình\Chuong 4\Xoa_B4\obj\Debug\Xoa_B4.pdb

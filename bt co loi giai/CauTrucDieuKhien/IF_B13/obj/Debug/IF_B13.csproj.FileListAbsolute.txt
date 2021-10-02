@@ -1,0 +1,6 @@
+D:\Teaching\Kỹ thuật lập trình\CauTrucDieuKhien\IF_B13\bin\Debug\IF_B13.exe.config
+D:\Teaching\Kỹ thuật lập trình\CauTrucDieuKhien\IF_B13\bin\Debug\IF_B13.exe
+D:\Teaching\Kỹ thuật lập trình\CauTrucDieuKhien\IF_B13\bin\Debug\IF_B13.pdb
+D:\Teaching\Kỹ thuật lập trình\CauTrucDieuKhien\IF_B13\obj\Debug\IF_B13.csprojResolveAssemblyReference.cache
+D:\Teaching\Kỹ thuật lập trình\CauTrucDieuKhien\IF_B13\obj\Debug\IF_B13.exe
+D:\Teaching\Kỹ thuật lập trình\CauTrucDieuKhien\IF_B13\obj\Debug\IF_B13.pdb

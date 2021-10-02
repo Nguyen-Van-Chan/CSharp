@@ -1,0 +1,5 @@
+D:\Teaching\Kỹ thuật lập trình\CauTrucLap\LAP_B9\bin\Debug\LAP_B9.exe.config
+D:\Teaching\Kỹ thuật lập trình\CauTrucLap\LAP_B9\bin\Debug\LAP_B9.exe
+D:\Teaching\Kỹ thuật lập trình\CauTrucLap\LAP_B9\bin\Debug\LAP_B9.pdb
+D:\Teaching\Kỹ thuật lập trình\CauTrucLap\LAP_B9\obj\Debug\LAP_B9.exe
+D:\Teaching\Kỹ thuật lập trình\CauTrucLap\LAP_B9\obj\Debug\LAP_B9.pdb

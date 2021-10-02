@@ -1,0 +1,5 @@
+D:\Teaching\Kỹ thuật lập trình\Chuong 3\B12\bin\Debug\B12.exe.config
+D:\Teaching\Kỹ thuật lập trình\Chuong 3\B12\bin\Debug\B12.exe
+D:\Teaching\Kỹ thuật lập trình\Chuong 3\B12\bin\Debug\B12.pdb
+D:\Teaching\Kỹ thuật lập trình\Chuong 3\B12\obj\Debug\B12.exe
+D:\Teaching\Kỹ thuật lập trình\Chuong 3\B12\obj\Debug\B12.pdb

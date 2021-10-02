@@ -1,0 +1,5 @@
+C:\Users\Tien Nguyen\Desktop\ConsoleApplication4\sohoanthien\bin\Debug\sohoanthien.exe.config
+C:\Users\Tien Nguyen\Desktop\ConsoleApplication4\sohoanthien\bin\Debug\sohoanthien.exe
+C:\Users\Tien Nguyen\Desktop\ConsoleApplication4\sohoanthien\bin\Debug\sohoanthien.pdb
+C:\Users\Tien Nguyen\Desktop\ConsoleApplication4\sohoanthien\obj\Debug\sohoanthien.exe
+C:\Users\Tien Nguyen\Desktop\ConsoleApplication4\sohoanthien\obj\Debug\sohoanthien.pdb

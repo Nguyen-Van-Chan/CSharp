@@ -1,0 +1,6 @@
+D:\Teaching\Kỹ thuật lập trình\CauTrucDieuKhien\IF_B9\bin\Debug\IF_B9.exe.config
+D:\Teaching\Kỹ thuật lập trình\CauTrucDieuKhien\IF_B9\bin\Debug\IF_B9.exe
+D:\Teaching\Kỹ thuật lập trình\CauTrucDieuKhien\IF_B9\bin\Debug\IF_B9.pdb
+D:\Teaching\Kỹ thuật lập trình\CauTrucDieuKhien\IF_B9\obj\Debug\IF_B9.exe
+D:\Teaching\Kỹ thuật lập trình\CauTrucDieuKhien\IF_B9\obj\Debug\IF_B9.pdb
+D:\Teaching\Kỹ thuật lập trình\CauTrucDieuKhien\IF_B9\obj\Debug\IF_B9.csprojResolveAssemblyReference.cache

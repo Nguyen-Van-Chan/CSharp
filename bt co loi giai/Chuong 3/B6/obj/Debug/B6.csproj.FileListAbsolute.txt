@@ -1,0 +1,6 @@
+D:\Teaching\Kỹ thuật lập trình\Chuong 3\B6\bin\Debug\B6.exe.config
+D:\Teaching\Kỹ thuật lập trình\Chuong 3\B6\bin\Debug\B6.exe
+D:\Teaching\Kỹ thuật lập trình\Chuong 3\B6\bin\Debug\B6.pdb
+D:\Teaching\Kỹ thuật lập trình\Chuong 3\B6\obj\Debug\B6.csprojResolveAssemblyReference.cache
+D:\Teaching\Kỹ thuật lập trình\Chuong 3\B6\obj\Debug\B6.exe
+D:\Teaching\Kỹ thuật lập trình\Chuong 3\B6\obj\Debug\B6.pdb

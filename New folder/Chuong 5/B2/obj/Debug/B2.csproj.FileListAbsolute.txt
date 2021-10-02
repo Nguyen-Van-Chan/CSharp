@@ -1,0 +1,5 @@
+C:\Users\Tien Nguyen\Desktop\Chuong 4\B2\bin\Debug\B2.exe.config
+C:\Users\Tien Nguyen\Desktop\Chuong 4\B2\bin\Debug\B2.exe
+C:\Users\Tien Nguyen\Desktop\Chuong 4\B2\bin\Debug\B2.pdb
+C:\Users\Tien Nguyen\Desktop\Chuong 4\B2\obj\Debug\B2.exe
+C:\Users\Tien Nguyen\Desktop\Chuong 4\B2\obj\Debug\B2.pdb

@@ -1,0 +1,6 @@
+D:\Teaching\Kỹ thuật lập trình\Chuong 4\SapXep_B5\bin\Debug\SapXep_B5.exe.config
+D:\Teaching\Kỹ thuật lập trình\Chuong 4\SapXep_B5\bin\Debug\SapXep_B5.exe
+D:\Teaching\Kỹ thuật lập trình\Chuong 4\SapXep_B5\bin\Debug\SapXep_B5.pdb
+D:\Teaching\Kỹ thuật lập trình\Chuong 4\SapXep_B5\obj\Debug\SapXep_B5.csprojResolveAssemblyReference.cache
+D:\Teaching\Kỹ thuật lập trình\Chuong 4\SapXep_B5\obj\Debug\SapXep_B5.exe
+D:\Teaching\Kỹ thuật lập trình\Chuong 4\SapXep_B5\obj\Debug\SapXep_B5.pdb

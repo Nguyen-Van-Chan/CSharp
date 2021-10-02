@@ -1,0 +1,6 @@
+C:\Users\Tien Nguyen\Desktop\Chuong 4\B8\bin\Debug\B8.exe.config
+C:\Users\Tien Nguyen\Desktop\Chuong 4\B8\bin\Debug\B8.exe
+C:\Users\Tien Nguyen\Desktop\Chuong 4\B8\bin\Debug\B8.pdb
+C:\Users\Tien Nguyen\Desktop\Chuong 4\B8\obj\Debug\B8.csprojResolveAssemblyReference.cache
+C:\Users\Tien Nguyen\Desktop\Chuong 4\B8\obj\Debug\B8.exe
+C:\Users\Tien Nguyen\Desktop\Chuong 4\B8\obj\Debug\B8.pdb

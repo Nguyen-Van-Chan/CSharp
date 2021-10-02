@@ -1,0 +1,6 @@
+D:\Teaching\Kỹ thuật lập trình\CauTrucDieuKhien\CauTrucReNhanh\bin\Debug\CauTrucReNhanh.exe.config
+D:\Teaching\Kỹ thuật lập trình\CauTrucDieuKhien\CauTrucReNhanh\bin\Debug\CauTrucReNhanh.exe
+D:\Teaching\Kỹ thuật lập trình\CauTrucDieuKhien\CauTrucReNhanh\bin\Debug\CauTrucReNhanh.pdb
+D:\Teaching\Kỹ thuật lập trình\CauTrucDieuKhien\CauTrucReNhanh\obj\Debug\CauTrucReNhanh.csprojResolveAssemblyReference.cache
+D:\Teaching\Kỹ thuật lập trình\CauTrucDieuKhien\CauTrucReNhanh\obj\Debug\CauTrucReNhanh.exe
+D:\Teaching\Kỹ thuật lập trình\CauTrucDieuKhien\CauTrucReNhanh\obj\Debug\CauTrucReNhanh.pdb

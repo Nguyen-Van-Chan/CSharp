@@ -1,0 +1,6 @@
+D:\Teaching\Kỹ thuật lập trình\Chuong 4\Xoa_B3\bin\Debug\Xoa_B3.exe.config
+D:\Teaching\Kỹ thuật lập trình\Chuong 4\Xoa_B3\bin\Debug\Xoa_B3.exe
+D:\Teaching\Kỹ thuật lập trình\Chuong 4\Xoa_B3\bin\Debug\Xoa_B3.pdb
+D:\Teaching\Kỹ thuật lập trình\Chuong 4\Xoa_B3\obj\Debug\Xoa_B3.csprojResolveAssemblyReference.cache
+D:\Teaching\Kỹ thuật lập trình\Chuong 4\Xoa_B3\obj\Debug\Xoa_B3.exe
+D:\Teaching\Kỹ thuật lập trình\Chuong 4\Xoa_B3\obj\Debug\Xoa_B3.pdb

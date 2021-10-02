@@ -1,0 +1,6 @@
+D:\Ontap1\Ontap1\bin\Debug\Ontap1.exe.config
+D:\Ontap1\Ontap1\bin\Debug\Ontap1.exe
+D:\Ontap1\Ontap1\bin\Debug\Ontap1.pdb
+D:\Ontap1\Ontap1\obj\Debug\Ontap1.csprojResolveAssemblyReference.cache
+D:\Ontap1\Ontap1\obj\Debug\Ontap1.exe
+D:\Ontap1\Ontap1\obj\Debug\Ontap1.pdb

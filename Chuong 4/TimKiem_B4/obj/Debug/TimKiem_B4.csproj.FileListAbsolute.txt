@@ -1,0 +1,5 @@
+D:\Teaching\Kỹ thuật lập trình\Chuong 4\TimKiem_B4\bin\Debug\TimKiem_B4.exe.config
+D:\Teaching\Kỹ thuật lập trình\Chuong 4\TimKiem_B4\bin\Debug\TimKiem_B4.exe
+D:\Teaching\Kỹ thuật lập trình\Chuong 4\TimKiem_B4\bin\Debug\TimKiem_B4.pdb
+D:\Teaching\Kỹ thuật lập trình\Chuong 4\TimKiem_B4\obj\Debug\TimKiem_B4.exe
+D:\Teaching\Kỹ thuật lập trình\Chuong 4\TimKiem_B4\obj\Debug\TimKiem_B4.pdb

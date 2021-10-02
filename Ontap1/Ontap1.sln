@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ontap1", "Ontap1\Ontap1.csproj", "{EA445595-E2E6-470C-A118-8D18FBEA6729}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bai1", "bai1\bai1.csproj", "{DC12609A-17F6-47CD-B6DB-AEF6DD4E8282}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA445595-E2E6-470C-A118-8D18FBEA6729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA445595-E2E6-470C-A118-8D18FBEA6729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA445595-E2E6-470C-A118-8D18FBEA6729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA445595-E2E6-470C-A118-8D18FBEA6729}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC12609A-17F6-47CD-B6DB-AEF6DD4E8282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC12609A-17F6-47CD-B6DB-AEF6DD4E8282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC12609A-17F6-47CD-B6DB-AEF6DD4E8282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC12609A-17F6-47CD-B6DB-AEF6DD4E8282}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

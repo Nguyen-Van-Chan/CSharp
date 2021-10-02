@@ -1,0 +1,6 @@
+C:\Users\Tien Nguyen\Desktop\Struct\PS\bin\Debug\PS.exe.config
+C:\Users\Tien Nguyen\Desktop\Struct\PS\bin\Debug\PS.exe
+C:\Users\Tien Nguyen\Desktop\Struct\PS\bin\Debug\PS.pdb
+C:\Users\Tien Nguyen\Desktop\Struct\PS\obj\Debug\PS.csprojResolveAssemblyReference.cache
+C:\Users\Tien Nguyen\Desktop\Struct\PS\obj\Debug\PS.exe
+C:\Users\Tien Nguyen\Desktop\Struct\PS\obj\Debug\PS.pdb

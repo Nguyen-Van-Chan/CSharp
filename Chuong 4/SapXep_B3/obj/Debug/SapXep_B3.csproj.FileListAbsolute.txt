@@ -1,0 +1,5 @@
+D:\Teaching\Kỹ thuật lập trình\Chuong 4\SapXep_B3\bin\Debug\SapXep_B3.exe.config
+D:\Teaching\Kỹ thuật lập trình\Chuong 4\SapXep_B3\bin\Debug\SapXep_B3.exe
+D:\Teaching\Kỹ thuật lập trình\Chuong 4\SapXep_B3\bin\Debug\SapXep_B3.pdb
+D:\Teaching\Kỹ thuật lập trình\Chuong 4\SapXep_B3\obj\Debug\SapXep_B3.exe
+D:\Teaching\Kỹ thuật lập trình\Chuong 4\SapXep_B3\obj\Debug\SapXep_B3.pdb

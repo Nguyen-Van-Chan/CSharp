@@ -1,0 +1,6 @@
+D:\Bai tap 2\chuong8\luu_so_nhi_phan\bin\Debug\luu_so_nhi_phan.exe.config
+D:\Bai tap 2\chuong8\luu_so_nhi_phan\bin\Debug\luu_so_nhi_phan.exe
+D:\Bai tap 2\chuong8\luu_so_nhi_phan\bin\Debug\luu_so_nhi_phan.pdb
+D:\Bai tap 2\chuong8\luu_so_nhi_phan\obj\Debug\luu_so_nhi_phan.csprojResolveAssemblyReference.cache
+D:\Bai tap 2\chuong8\luu_so_nhi_phan\obj\Debug\luu_so_nhi_phan.exe
+D:\Bai tap 2\chuong8\luu_so_nhi_phan\obj\Debug\luu_so_nhi_phan.pdb

@@ -1,0 +1,6 @@
+D:\Bai tap 2\chuong8\chuong8\bin\Debug\chuong8.exe.config
+D:\Bai tap 2\chuong8\chuong8\bin\Debug\chuong8.exe
+D:\Bai tap 2\chuong8\chuong8\bin\Debug\chuong8.pdb
+D:\Bai tap 2\chuong8\chuong8\obj\Debug\chuong8.csprojResolveAssemblyReference.cache
+D:\Bai tap 2\chuong8\chuong8\obj\Debug\chuong8.exe
+D:\Bai tap 2\chuong8\chuong8\obj\Debug\chuong8.pdb

@@ -1,0 +1,6 @@
+D:\Teaching\Kỹ thuật lập trình\CauTrucLap\LAP_B4\bin\Debug\LAP_B4.exe.config
+D:\Teaching\Kỹ thuật lập trình\CauTrucLap\LAP_B4\bin\Debug\LAP_B4.exe
+D:\Teaching\Kỹ thuật lập trình\CauTrucLap\LAP_B4\bin\Debug\LAP_B4.pdb
+D:\Teaching\Kỹ thuật lập trình\CauTrucLap\LAP_B4\obj\Debug\LAP_B4.csprojResolveAssemblyReference.cache
+D:\Teaching\Kỹ thuật lập trình\CauTrucLap\LAP_B4\obj\Debug\LAP_B4.exe
+D:\Teaching\Kỹ thuật lập trình\CauTrucLap\LAP_B4\obj\Debug\LAP_B4.pdb

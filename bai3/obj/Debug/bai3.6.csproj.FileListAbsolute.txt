@@ -1,0 +1,8 @@
+D:\CNTT K11\bai3\bai3\bin\Debug\bai3.exe.config
+D:\CNTT K11\bai3\bai3\obj\Debug\bai3.exe
+D:\CNTT K11\bai3\bai3\obj\Debug\bai3.pdb
+D:\CNTT K11\bai3\bai3\bin\Debug\bai3.exe
+D:\CNTT K11\bai3\bai3\bin\Debug\bai3.pdb
+D:\bài tập\bai3\bin\Debug\bai3.exe.config
+D:\bài tập\bai3\obj\Debug\bai3.exe
+D:\bài tập\bai3\obj\Debug\bai3.pdb

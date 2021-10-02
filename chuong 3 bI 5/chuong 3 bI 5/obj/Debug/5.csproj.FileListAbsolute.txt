@@ -1,0 +1,3 @@
+D:\bài tập\chuong 3 bI 5\chuong 3 bI 5\bin\Debug\chuong 3 bI 5.exe.config
+D:\bài tập\chuong 3 bI 5\chuong 3 bI 5\obj\Debug\chuong 3 bI 5.exe
+D:\bài tập\chuong 3 bI 5\chuong 3 bI 5\obj\Debug\chuong 3 bI 5.pdb

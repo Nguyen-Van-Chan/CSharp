@@ -1,0 +1,6 @@
+D:\Teaching\Kỹ thuật lập trình\CauTrucDieuKhien\IF_B7\bin\Debug\IF_B7.exe.config
+D:\Teaching\Kỹ thuật lập trình\CauTrucDieuKhien\IF_B7\bin\Debug\IF_B7.exe
+D:\Teaching\Kỹ thuật lập trình\CauTrucDieuKhien\IF_B7\bin\Debug\IF_B7.pdb
+D:\Teaching\Kỹ thuật lập trình\CauTrucDieuKhien\IF_B7\obj\Debug\IF_B7.csprojResolveAssemblyReference.cache
+D:\Teaching\Kỹ thuật lập trình\CauTrucDieuKhien\IF_B7\obj\Debug\IF_B7.exe
+D:\Teaching\Kỹ thuật lập trình\CauTrucDieuKhien\IF_B7\obj\Debug\IF_B7.pdb

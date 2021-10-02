@@ -1,0 +1,6 @@
+C:\Users\Tien Nguyen\Desktop\Struct\Bai2\bin\Debug\Bai2.exe.config
+C:\Users\Tien Nguyen\Desktop\Struct\Bai2\bin\Debug\Bai2.exe
+C:\Users\Tien Nguyen\Desktop\Struct\Bai2\bin\Debug\Bai2.pdb
+C:\Users\Tien Nguyen\Desktop\Struct\Bai2\obj\Debug\Bai2.csprojResolveAssemblyReference.cache
+C:\Users\Tien Nguyen\Desktop\Struct\Bai2\obj\Debug\Bai2.exe
+C:\Users\Tien Nguyen\Desktop\Struct\Bai2\obj\Debug\Bai2.pdb

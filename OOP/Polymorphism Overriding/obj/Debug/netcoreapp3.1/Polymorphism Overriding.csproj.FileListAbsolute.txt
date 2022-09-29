@@ -1,0 +1,14 @@
+D:\C#\OOP\Polymorphism Overriding\bin\Debug\netcoreapp3.1\Polymorphism Overriding.exe
+D:\C#\OOP\Polymorphism Overriding\bin\Debug\netcoreapp3.1\Polymorphism Overriding.deps.json
+D:\C#\OOP\Polymorphism Overriding\bin\Debug\netcoreapp3.1\Polymorphism Overriding.runtimeconfig.json
+D:\C#\OOP\Polymorphism Overriding\bin\Debug\netcoreapp3.1\Polymorphism Overriding.runtimeconfig.dev.json
+D:\C#\OOP\Polymorphism Overriding\bin\Debug\netcoreapp3.1\Polymorphism Overriding.dll
+D:\C#\OOP\Polymorphism Overriding\bin\Debug\netcoreapp3.1\Polymorphism Overriding.pdb
+D:\C#\OOP\Polymorphism Overriding\obj\Debug\netcoreapp3.1\Polymorphism Overriding.csproj.AssemblyReference.cache
+D:\C#\OOP\Polymorphism Overriding\obj\Debug\netcoreapp3.1\Polymorphism Overriding.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\OOP\Polymorphism Overriding\obj\Debug\netcoreapp3.1\Polymorphism Overriding.AssemblyInfoInputs.cache
+D:\C#\OOP\Polymorphism Overriding\obj\Debug\netcoreapp3.1\Polymorphism Overriding.AssemblyInfo.cs
+D:\C#\OOP\Polymorphism Overriding\obj\Debug\netcoreapp3.1\Polymorphism Overriding.csproj.CoreCompileInputs.cache
+D:\C#\OOP\Polymorphism Overriding\obj\Debug\netcoreapp3.1\Polymorphism Overriding.dll
+D:\C#\OOP\Polymorphism Overriding\obj\Debug\netcoreapp3.1\Polymorphism Overriding.pdb
+D:\C#\OOP\Polymorphism Overriding\obj\Debug\netcoreapp3.1\Polymorphism Overriding.genruntimeconfig.cache

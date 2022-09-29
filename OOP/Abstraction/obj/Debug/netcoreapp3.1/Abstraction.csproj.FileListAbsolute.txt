@@ -1,0 +1,14 @@
+D:\C#\OOP\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.exe
+D:\C#\OOP\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.deps.json
+D:\C#\OOP\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.runtimeconfig.json
+D:\C#\OOP\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.runtimeconfig.dev.json
+D:\C#\OOP\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.dll
+D:\C#\OOP\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.pdb
+D:\C#\OOP\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.csproj.AssemblyReference.cache
+D:\C#\OOP\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\OOP\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.AssemblyInfoInputs.cache
+D:\C#\OOP\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.AssemblyInfo.cs
+D:\C#\OOP\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.csproj.CoreCompileInputs.cache
+D:\C#\OOP\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.dll
+D:\C#\OOP\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.pdb
+D:\C#\OOP\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.genruntimeconfig.cache

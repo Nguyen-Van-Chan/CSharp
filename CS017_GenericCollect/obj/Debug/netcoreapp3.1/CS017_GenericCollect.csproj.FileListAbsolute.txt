@@ -1,0 +1,14 @@
+D:\C#\learn-cs-netcore-master\CS017_GenericCollect\bin\Debug\netcoreapp3.1\CS017_GenericCollect.exe
+D:\C#\learn-cs-netcore-master\CS017_GenericCollect\bin\Debug\netcoreapp3.1\CS017_GenericCollect.deps.json
+D:\C#\learn-cs-netcore-master\CS017_GenericCollect\bin\Debug\netcoreapp3.1\CS017_GenericCollect.runtimeconfig.json
+D:\C#\learn-cs-netcore-master\CS017_GenericCollect\bin\Debug\netcoreapp3.1\CS017_GenericCollect.runtimeconfig.dev.json
+D:\C#\learn-cs-netcore-master\CS017_GenericCollect\bin\Debug\netcoreapp3.1\CS017_GenericCollect.dll
+D:\C#\learn-cs-netcore-master\CS017_GenericCollect\bin\Debug\netcoreapp3.1\CS017_GenericCollect.pdb
+D:\C#\learn-cs-netcore-master\CS017_GenericCollect\obj\Debug\netcoreapp3.1\CS017_GenericCollect.csproj.AssemblyReference.cache
+D:\C#\learn-cs-netcore-master\CS017_GenericCollect\obj\Debug\netcoreapp3.1\CS017_GenericCollect.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\learn-cs-netcore-master\CS017_GenericCollect\obj\Debug\netcoreapp3.1\CS017_GenericCollect.AssemblyInfoInputs.cache
+D:\C#\learn-cs-netcore-master\CS017_GenericCollect\obj\Debug\netcoreapp3.1\CS017_GenericCollect.AssemblyInfo.cs
+D:\C#\learn-cs-netcore-master\CS017_GenericCollect\obj\Debug\netcoreapp3.1\CS017_GenericCollect.csproj.CoreCompileInputs.cache
+D:\C#\learn-cs-netcore-master\CS017_GenericCollect\obj\Debug\netcoreapp3.1\CS017_GenericCollect.dll
+D:\C#\learn-cs-netcore-master\CS017_GenericCollect\obj\Debug\netcoreapp3.1\CS017_GenericCollect.pdb
+D:\C#\learn-cs-netcore-master\CS017_GenericCollect\obj\Debug\netcoreapp3.1\CS017_GenericCollect.genruntimeconfig.cache

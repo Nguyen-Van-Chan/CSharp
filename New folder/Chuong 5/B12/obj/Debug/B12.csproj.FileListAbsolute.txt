@@ -1,5 +1,0 @@
-C:\Users\Tien Nguyen\Desktop\Chuong 4\B12\bin\Debug\B12.exe.config
-C:\Users\Tien Nguyen\Desktop\Chuong 4\B12\bin\Debug\B12.exe
-C:\Users\Tien Nguyen\Desktop\Chuong 4\B12\bin\Debug\B12.pdb
-C:\Users\Tien Nguyen\Desktop\Chuong 4\B12\obj\Debug\B12.exe
-C:\Users\Tien Nguyen\Desktop\Chuong 4\B12\obj\Debug\B12.pdb

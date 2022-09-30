@@ -1,5 +1,0 @@
-C:\Users\Tien Nguyen\Desktop\Chuong 4\B14\bin\Debug\B14.exe.config
-C:\Users\Tien Nguyen\Desktop\Chuong 4\B14\bin\Debug\B14.exe
-C:\Users\Tien Nguyen\Desktop\Chuong 4\B14\bin\Debug\B14.pdb
-C:\Users\Tien Nguyen\Desktop\Chuong 4\B14\obj\Debug\B14.exe
-C:\Users\Tien Nguyen\Desktop\Chuong 4\B14\obj\Debug\B14.pdb

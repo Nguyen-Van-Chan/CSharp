@@ -1,5 +1,0 @@
-C:\Users\Tien Nguyen\Desktop\Chuong 4\B6\bin\Debug\B6.exe.config
-C:\Users\Tien Nguyen\Desktop\Chuong 4\B6\bin\Debug\B6.exe
-C:\Users\Tien Nguyen\Desktop\Chuong 4\B6\bin\Debug\B6.pdb
-C:\Users\Tien Nguyen\Desktop\Chuong 4\B6\obj\Debug\B6.exe
-C:\Users\Tien Nguyen\Desktop\Chuong 4\B6\obj\Debug\B6.pdb

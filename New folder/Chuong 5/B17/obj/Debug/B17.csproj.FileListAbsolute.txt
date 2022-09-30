@@ -1,6 +1,0 @@
-C:\Users\Tien Nguyen\Desktop\Chuong 4\B17\bin\Debug\B17.exe.config
-C:\Users\Tien Nguyen\Desktop\Chuong 4\B17\bin\Debug\B17.exe
-C:\Users\Tien Nguyen\Desktop\Chuong 4\B17\bin\Debug\B17.pdb
-C:\Users\Tien Nguyen\Desktop\Chuong 4\B17\obj\Debug\B17.csprojResolveAssemblyReference.cache
-C:\Users\Tien Nguyen\Desktop\Chuong 4\B17\obj\Debug\B17.exe
-C:\Users\Tien Nguyen\Desktop\Chuong 4\B17\obj\Debug\B17.pdb

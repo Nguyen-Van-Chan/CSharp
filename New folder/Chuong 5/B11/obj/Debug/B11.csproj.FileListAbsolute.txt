@@ -1,6 +1,0 @@
-C:\Users\Tien Nguyen\Desktop\Chuong 4\B11\bin\Debug\B11.exe.config
-C:\Users\Tien Nguyen\Desktop\Chuong 4\B11\bin\Debug\B11.exe
-C:\Users\Tien Nguyen\Desktop\Chuong 4\B11\bin\Debug\B11.pdb
-C:\Users\Tien Nguyen\Desktop\Chuong 4\B11\obj\Debug\B11.csprojResolveAssemblyReference.cache
-C:\Users\Tien Nguyen\Desktop\Chuong 4\B11\obj\Debug\B11.exe
-C:\Users\Tien Nguyen\Desktop\Chuong 4\B11\obj\Debug\B11.pdb

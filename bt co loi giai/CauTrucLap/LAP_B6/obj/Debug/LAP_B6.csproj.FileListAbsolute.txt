@@ -1,5 +1,0 @@
-D:\Teaching\Kỹ thuật lập trình\CauTrucLap\LAP_B6\bin\Debug\LAP_B6.exe.config
-D:\Teaching\Kỹ thuật lập trình\CauTrucLap\LAP_B6\bin\Debug\LAP_B6.exe
-D:\Teaching\Kỹ thuật lập trình\CauTrucLap\LAP_B6\bin\Debug\LAP_B6.pdb
-D:\Teaching\Kỹ thuật lập trình\CauTrucLap\LAP_B6\obj\Debug\LAP_B6.exe
-D:\Teaching\Kỹ thuật lập trình\CauTrucLap\LAP_B6\obj\Debug\LAP_B6.pdb

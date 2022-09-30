@@ -1,5 +1,0 @@
-D:\bài tập\chuong 3 bI 5\6\bin\Debug\6.exe.config
-D:\bài tập\chuong 3 bI 5\6\bin\Debug\6.exe
-D:\bài tập\chuong 3 bI 5\6\bin\Debug\6.pdb
-D:\bài tập\chuong 3 bI 5\6\obj\Debug\6.exe
-D:\bài tập\chuong 3 bI 5\6\obj\Debug\6.pdb

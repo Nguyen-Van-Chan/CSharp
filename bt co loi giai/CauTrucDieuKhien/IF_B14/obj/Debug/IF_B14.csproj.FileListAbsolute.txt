@@ -1,5 +1,0 @@
-D:\Teaching\Kỹ thuật lập trình\CauTrucDieuKhien\IF_B14\bin\Debug\IF_B14.exe.config
-D:\Teaching\Kỹ thuật lập trình\CauTrucDieuKhien\IF_B14\bin\Debug\IF_B14.exe
-D:\Teaching\Kỹ thuật lập trình\CauTrucDieuKhien\IF_B14\bin\Debug\IF_B14.pdb
-D:\Teaching\Kỹ thuật lập trình\CauTrucDieuKhien\IF_B14\obj\Debug\IF_B14.exe
-D:\Teaching\Kỹ thuật lập trình\CauTrucDieuKhien\IF_B14\obj\Debug\IF_B14.pdb

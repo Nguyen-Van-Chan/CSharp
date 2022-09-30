@@ -1,5 +1,0 @@
-C:\Users\Tien Nguyen\Desktop\ConsoleApplication4\demso\bin\Debug\demso.exe.config
-C:\Users\Tien Nguyen\Desktop\ConsoleApplication4\demso\bin\Debug\demso.exe
-C:\Users\Tien Nguyen\Desktop\ConsoleApplication4\demso\bin\Debug\demso.pdb
-C:\Users\Tien Nguyen\Desktop\ConsoleApplication4\demso\obj\Debug\demso.exe
-C:\Users\Tien Nguyen\Desktop\ConsoleApplication4\demso\obj\Debug\demso.pdb

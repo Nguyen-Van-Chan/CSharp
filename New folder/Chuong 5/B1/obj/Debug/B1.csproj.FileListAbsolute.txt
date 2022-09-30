@@ -1,6 +1,0 @@
-C:\Users\Tien Nguyen\Desktop\Chuong 4\B1\bin\Debug\B1.exe.config
-C:\Users\Tien Nguyen\Desktop\Chuong 4\B1\bin\Debug\B1.exe
-C:\Users\Tien Nguyen\Desktop\Chuong 4\B1\bin\Debug\B1.pdb
-C:\Users\Tien Nguyen\Desktop\Chuong 4\B1\obj\Debug\B1.csprojResolveAssemblyReference.cache
-C:\Users\Tien Nguyen\Desktop\Chuong 4\B1\obj\Debug\B1.exe
-C:\Users\Tien Nguyen\Desktop\Chuong 4\B1\obj\Debug\B1.pdb

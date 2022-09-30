@@ -1,9 +1,0 @@
-C:\Users\Tien Nguyen\Desktop\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
-C:\Users\Tien Nguyen\Desktop\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
-C:\Users\Tien Nguyen\Desktop\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
-C:\Users\Tien Nguyen\Desktop\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
-C:\Users\Tien Nguyen\Desktop\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
-C:\Users\Tien Nguyen\Desktop\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
-D:\New folder\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
-D:\New folder\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
-D:\New folder\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb

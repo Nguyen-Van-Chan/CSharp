@@ -1,6 +1,0 @@
-D:\bài tập\ConsoleApplication5\sx1\bin\Debug\sx1.exe.config
-D:\bài tập\ConsoleApplication5\sx1\bin\Debug\sx1.exe
-D:\bài tập\ConsoleApplication5\sx1\bin\Debug\sx1.pdb
-D:\bài tập\ConsoleApplication5\sx1\obj\Debug\sx1.csprojResolveAssemblyReference.cache
-D:\bài tập\ConsoleApplication5\sx1\obj\Debug\sx1.exe
-D:\bài tập\ConsoleApplication5\sx1\obj\Debug\sx1.pdb

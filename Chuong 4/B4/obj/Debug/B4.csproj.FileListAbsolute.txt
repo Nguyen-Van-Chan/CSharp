@@ -1,6 +1,0 @@
-D:\Teaching\Kỹ thuật lập trình\Chuong 4\B4\bin\Debug\B4.exe.config
-D:\Teaching\Kỹ thuật lập trình\Chuong 4\B4\bin\Debug\B4.exe
-D:\Teaching\Kỹ thuật lập trình\Chuong 4\B4\bin\Debug\B4.pdb
-D:\Teaching\Kỹ thuật lập trình\Chuong 4\B4\obj\Debug\B4.csprojResolveAssemblyReference.cache
-D:\Teaching\Kỹ thuật lập trình\Chuong 4\B4\obj\Debug\B4.exe
-D:\Teaching\Kỹ thuật lập trình\Chuong 4\B4\obj\Debug\B4.pdb

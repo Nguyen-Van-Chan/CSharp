@@ -1,5 +1,0 @@
-D:\Teaching\Kỹ thuật lập trình\Chuong 4\TimKiem_B2\bin\Debug\TimKiem_B2.exe.config
-D:\Teaching\Kỹ thuật lập trình\Chuong 4\TimKiem_B2\bin\Debug\TimKiem_B2.exe
-D:\Teaching\Kỹ thuật lập trình\Chuong 4\TimKiem_B2\bin\Debug\TimKiem_B2.pdb
-D:\Teaching\Kỹ thuật lập trình\Chuong 4\TimKiem_B2\obj\Debug\TimKiem_B2.exe
-D:\Teaching\Kỹ thuật lập trình\Chuong 4\TimKiem_B2\obj\Debug\TimKiem_B2.pdb

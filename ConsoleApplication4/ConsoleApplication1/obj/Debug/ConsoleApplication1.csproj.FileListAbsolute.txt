@@ -1,6 +1,0 @@
-D:\bài tập\ConsoleApplication4\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-D:\bài tập\ConsoleApplication4\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-D:\bài tập\ConsoleApplication4\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-D:\bài tập\ConsoleApplication4\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
-D:\bài tập\ConsoleApplication4\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-D:\bài tập\ConsoleApplication4\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

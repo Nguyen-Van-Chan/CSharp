@@ -1,6 +1,0 @@
-D:\Teaching\Kỹ thuật lập trình\Chuong 3\B20\bin\Debug\B20.exe.config
-D:\Teaching\Kỹ thuật lập trình\Chuong 3\B20\bin\Debug\B20.exe
-D:\Teaching\Kỹ thuật lập trình\Chuong 3\B20\bin\Debug\B20.pdb
-D:\Teaching\Kỹ thuật lập trình\Chuong 3\B20\obj\Debug\B20.exe
-D:\Teaching\Kỹ thuật lập trình\Chuong 3\B20\obj\Debug\B20.pdb
-D:\Teaching\Kỹ thuật lập trình\Chuong 3\B20\obj\Debug\B20.csprojResolveAssemblyReference.cache

@@ -1,5 +1,0 @@
-D:\Teaching\Kỹ thuật lập trình\Chuong 4\Dem_B6\bin\Debug\Dem_B6.exe.config
-D:\Teaching\Kỹ thuật lập trình\Chuong 4\Dem_B6\bin\Debug\Dem_B6.exe
-D:\Teaching\Kỹ thuật lập trình\Chuong 4\Dem_B6\bin\Debug\Dem_B6.pdb
-D:\Teaching\Kỹ thuật lập trình\Chuong 4\Dem_B6\obj\Debug\Dem_B6.exe
-D:\Teaching\Kỹ thuật lập trình\Chuong 4\Dem_B6\obj\Debug\Dem_B6.pdb

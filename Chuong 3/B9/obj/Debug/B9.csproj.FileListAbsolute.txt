@@ -1,5 +1,0 @@
-D:\Teaching\Kỹ thuật lập trình\Chuong 3\B9\bin\Debug\B9.exe.config
-D:\Teaching\Kỹ thuật lập trình\Chuong 3\B9\bin\Debug\B9.exe
-D:\Teaching\Kỹ thuật lập trình\Chuong 3\B9\bin\Debug\B9.pdb
-D:\Teaching\Kỹ thuật lập trình\Chuong 3\B9\obj\Debug\B9.exe
-D:\Teaching\Kỹ thuật lập trình\Chuong 3\B9\obj\Debug\B9.pdb

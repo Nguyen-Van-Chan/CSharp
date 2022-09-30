@@ -1,5 +1,0 @@
-D:\Bai tap 2\chuong8\doc_nhi_phan\bin\Debug\doc_nhi_phan.exe.config
-D:\Bai tap 2\chuong8\doc_nhi_phan\bin\Debug\doc_nhi_phan.exe
-D:\Bai tap 2\chuong8\doc_nhi_phan\bin\Debug\doc_nhi_phan.pdb
-D:\Bai tap 2\chuong8\doc_nhi_phan\obj\Debug\doc_nhi_phan.exe
-D:\Bai tap 2\chuong8\doc_nhi_phan\obj\Debug\doc_nhi_phan.pdb

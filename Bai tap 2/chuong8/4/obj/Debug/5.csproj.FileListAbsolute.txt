@@ -1,6 +1,0 @@
-D:\Bai tap 2\chuong8\4\bin\Debug\4.exe.config
-D:\Bai tap 2\chuong8\4\bin\Debug\4.exe
-D:\Bai tap 2\chuong8\4\bin\Debug\4.pdb
-D:\Bai tap 2\chuong8\4\obj\Debug\5.csprojResolveAssemblyReference.cache
-D:\Bai tap 2\chuong8\4\obj\Debug\4.exe
-D:\Bai tap 2\chuong8\4\obj\Debug\4.pdb
